@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "TechTales & Code Chronicles"
+title = "TheLunaticDev"
 
 [params]
   displayName = "EN"
@@ -19,14 +19,8 @@ title = "TechTales & Code Chronicles"
 [author]
   name = "TheLunaticDev"
 #   image = "img/blowfish_logo.png"
-  headline = """Meet the Digital Storyteller: Weaving Code and
-  Narratives with Creativity and Tech Mastery"""
-  bio = """Hello, I'm Sushanta, though I go with the name Luna on the
-  internet. I have a passion for technology, open source, website and
-  app development, and the enigmatic world of narratives. I navigate
-  the realms of web and app developement while exploring captivating
-  stories. Join me on this journey where captivity meets coding,
-  shaping a unique blend of innovation and imagination."""
+  headline = """Do you want an app built for yourself? I can do that for you!"""
+  bio = ""
   links = [
     { email = "mailto:sb.sushanta.banerjee@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

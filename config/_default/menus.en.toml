@@ -13,17 +13,22 @@
 [[main]]
   name = "Blog"
   pageRef = "blog"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Portfolio"
   pageRef = "portfolio"
-  weight = 20
+  weight = 10
 
 [[main]]
-  name = "Who Am I"
-  pageRef = "whoami"
+  name = "About"
+  pageRef = "about"
   weight = 30
+
+[[subnavigation]]
+  name = "Hire Me!"
+  pageRef = "hire"
+  weight = 10
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
