@@ -6,16 +6,8 @@ date = 2023-12-02T12:40:09+05:30
 Welcome! Please take a seat and make yourself at home...
 {{< /lead >}}
 
-My name is Luna, or at least that is the name I chose for the internet.
-If you want to learn more about my real persona, please check out my
-**about** page.
-
-I create various kinds of applications, including web and Android apps,
+My name is Sushanta Banerjee, I create various kinds of applications, including web and Android apps,
 as well as desktop PC apps.
-
-{{< alert icon="check">}}
-**Anything you need building, I can do it for you!**
-{{< /alert >}}
 
 Take a look at my **portfolio** to see the types of applications I've created.
 
